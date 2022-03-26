@@ -1,8 +1,8 @@
 """
  ******************************************************************************
  * @file: import_all.py
- * @author: gyanthp
- * @date: 26.12.2021
+ * @author: Jabed-Akhtar
+ * @date: 26.03.2022
  *****************************************************************************
  * :Description:
  *
@@ -12,7 +12,6 @@
 
 """ imports """
 import sys, os, time, threading
-import numpy
 
 from PyQt5 import QtWidgets
 from PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QGroupBox, QTableWidget, QTableWidgetItem,
