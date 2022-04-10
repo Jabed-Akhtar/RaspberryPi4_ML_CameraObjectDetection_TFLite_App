@@ -1,9 +1,9 @@
 # RaspberryPi4_ML_CameraObjectDetection_TFLite_App
 
 ##Notes:
-> use tf-lite
-> supervised Learning
-> Image Segmentation and Object detection
+> use tf-lite  
+> supervised Learning  
+> Image Segmentation and Object detection  
 
 ## Datasets possibilities:
 >> https://www.kaggle.com/datasets/aruchomu/data-for-yolo-v3-kernel?select=office.jpg
