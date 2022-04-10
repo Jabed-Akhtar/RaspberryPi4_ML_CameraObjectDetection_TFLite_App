@@ -17,4 +17,5 @@
 
 #Steps:
 > 1. Detect Object with help of ML_Model
+>> find dataset for supervised learning
 > 2. Show result in GUI
