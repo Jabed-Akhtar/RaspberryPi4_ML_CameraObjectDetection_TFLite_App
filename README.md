@@ -13,3 +13,8 @@
 >> https://www.kaggle.com/datasets/datatangai/50-types-of-dynamic-gesture-recognition-data
 >> https://www.kaggle.com/datasets/luznoc/synthetic-data-generation-for-messyindoors
 >> https://www.kaggle.com/datasets/celsopereira1/visible-light-positioning-dataset
+
+
+#Steps:
+> 1. Detect Object with help of ML_Model
+> 2. Show result in GUI
