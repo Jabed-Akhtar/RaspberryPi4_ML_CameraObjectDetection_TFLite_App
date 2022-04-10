@@ -1,5 +1,8 @@
 # RaspberryPi4_ML_CameraObjectDetection_TFLite_App
 
+##Notes:
+> use tf-lite
+
 ## Datasets possibilities:
 >> https://www.kaggle.com/datasets/aruchomu/data-for-yolo-v3-kernel?select=office.jpg
 >> https://www.kaggle.com/datasets/soumikrakshit/nyu-depth-v2
